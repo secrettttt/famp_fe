@@ -30,6 +30,7 @@ class DetailPage extends Component {
           style={{ width: '75%', marginTop: 20 }}
         >
           aha...
+          详情页
         </Card>
       </div>
     );
